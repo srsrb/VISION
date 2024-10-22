@@ -1,7 +1,7 @@
 // Imagine++ project
 // Project:  Seeds
 // Author:   Pascal Monasse
-// Student: TODO
+// Student: Robin Soares
 
 #include <Imagine/Images.h>
 #include <queue>
